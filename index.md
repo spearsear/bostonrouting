@@ -4,7 +4,7 @@ subtitle: a multi vehicle multi stop optimal routes solver
 layout: page
 show_sidebar: true
 menubar: menu
-hero_image: /brblog/img/vtjenne.jpg
+hero_image: /img/vtjenne.jpg
 hero_height: is-medium
 ---
 
