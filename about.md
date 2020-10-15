@@ -3,7 +3,7 @@ layout: page
 title: Boston Routing
 subtitle: about
 permalink: /about/
-hero_image: /img/vtjenne.jpg
+hero_image: /brblog/img/vtjenne.jpg
 ---
 
 This is the blogging site for Boston Routing, a free multi vehicle multi stop optimal routes solver [bostonrouting.com](https://bostonrouting.com/)
