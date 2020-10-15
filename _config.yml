@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   for each of its vehicles. We have helped landscaping companies, bakeries, trash collection
   companies and home service companies generating their optimal routes on a daily basis.
 #baseurl: "/brblog" # the subpath of your site, e.g. /blog
-url: "https://blog/bostonrouting.com/brblog" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.bostonrouting.com" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /img/favicon.png
 permalink: pretty
 twitter_username: spearsear
