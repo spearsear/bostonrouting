@@ -1,0 +1,28 @@
+intro: |-
+  Here are a few examples of optimial routes solved by Boston Routing. You can go into each example by following the link and try adding or removing some customer stops, and/or adding removing one or more trucks in a depot.
+items:
+  - title: US Cities
+    subtitle: three vehicles visiting many US cities
+    description: |-
+      Three trucks each visit several US Cities,
+      With a goal to minimize total distance travelled.
+    image: /img/uscities.png
+    image_ratio: is-16by9
+    link: http://www.bostonrouting.com/vrp/67961174
+    link_text: An optimal route with three trucks and many US cities
+    tags: Demo,Optimal,Boston Routing
+    github:
+  - title: Massachusetts MetroWest homes
+    subtitle: four vehicles visiting many homes in metrowest MA
+    description: |-
+      Imagine you are delivering fresh vegetables to many homes in MetroWest of MA.
+      You have 2 bases, each base has 2 cars.
+    features:
+      - this example use timeboxing feature
+    features_styles: is-centered is-outlined
+    image: /img/mahomes.png
+    image_ratio: is-16by9
+    link: http://www.bostonrouting.com/vrp/67961174
+    link_text: Four vehicles delivering fresh vegetables to homes in metrowest
+    tags: Demo,Optimal,Boston Routing
+    github:

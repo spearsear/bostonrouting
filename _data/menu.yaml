@@ -1,0 +1,20 @@
+- label: Features
+  items:
+    - name: Nearly Free
+      link: '/#nearly-free'
+    - name: Enter List of Stops
+      link: '/#enter-list-of-stops'
+    - name: Upload list of Stops
+      link: '/#upload-list-of-stops'
+    - name: Demand of Each Stop
+      link: '/#demand-of-each-stop'
+    - name: Duration of Each Stop
+      link: '/#duration-of-each-stop'
+    - name: Time Boxing of Each Stop
+      link: '/#time-boxing-of-each-stop'
+    - name: Capacity of Each Vehicle
+      link: '/#capacity-of-each-vehicle'
+    - name: Save to Local
+      link: '/#save-to-local'
+    - name: Save to Cloud
+      link: '/#save-to-cloud'
