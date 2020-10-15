@@ -5,33 +5,12 @@ date:   2020-10-11 22:37:21 -0400
 image:
 categories:
 ---
-Small business owners usually does not have the need nor budget to subscribe to a routing service from a dedicated `routing software`. Instead, their routing needs are more sporadic and sometimes daily, yet they need many rounds of trial to finally settle on a route they like. `bostonrouting.com` offers such service to the small business owners, they do not need to worry about budgets and monthly subscription, they can just use `bostonrouting.com` whenever they need to, like one of our landscaping client says, "we use `bostongrouting.com` to optimize our mowing routes about once every few days, when we have new customers or when we have missed mowing schedule due to holiday or bad weather".
+A multiple day route planner? This is much needed for example by landscapers who want to generate a multiple day plan of their mowing routes.
 
-`bostonrouting.com` helps following small business to optimize their routes:
+The difficulty is however at the administrative work of updating the work being done each day. Especially when the truck missed some stops due to various reason, for example delay of work time. The routing plan for the rest of the days needs to be reoptimized. However this requires the landscaper to have a reliable system to do dataentry in order to reflect the current work done, before the reoptimization should start.
 
-* Landscaping companies
-* Snow removal companies
-* Food deliering companies
-* Home service companies
-* Trash removal companies
-* etc
+Currently we expect the landscaper coming back to bostonrouting.com to update the new customers list, and reoptimize.
 
-We also work directly with small business companie to customize routing solutions for them.
-
-Routing is complex matter, especially when you have many special constraints, you will quickly give up and just do things randomly, this is when you lose your competitive edge to your rival companies. Stop losing the game and contact bostonrouting.com for help, we are a bunch of nerds and hackers who can code advanced algorithms which can execute fast:
-
-{% highlight ruby %}
-def optimalRouteFor(company_name)
-  getRoutingProblemFor(company_name)
-    .solve
-    .getRoute
-end
-print(optimalRouteFor('Jack's Pole'))
-#=> print optimal route to STDOUT.
-{% endhighlight %}
-
-Check out the [BostonRouting docs][bostonrouting-docs] for more info on how to get the most out of BostonRouting. File all bugs/feature requests at [BostonRouting’s GitHub repo][bostonrouting-gh]. If you have questions, you can ask them on [BostonRouting Talk][bostonrouting-talk].
-
-[bostonrouting-docs]: https://bostonrouting.com/docs/home
-[bostonrouting-gh]:   https://github.com/spearsear/bostonrouting
-[bostonrouting-talk]: https://talk.bostonrouting.com/
+Try out the [bostonrouting-home][bostonrouting-gh] for more info on how to get the most out of BostonRouting.
+[bostonrouting-home]: https://bostonrouting.com
+[bostonrouting-gh]:   https://spearsear.github.io/bostonrouting
