@@ -22,7 +22,7 @@ items:
     features_styles: is-centered is-outlined
     image: /img/mahomes.png
     image_ratio: is-16by9
-    link: http://www.bostonrouting.com/vrp/67961174
+    link: http://www.bostonrouting.com/vrp/222
     link_text: Four vehicles delivering fresh vegetables to homes in metrowest
     tags: Demo,Optimal,Boston Routing
     github:
