@@ -2,7 +2,7 @@
 layout: post
 title:  "On free online measureing tool for outdoor areas"
 date:   2020-11-16 11:50:21 -0400
-image:  /brblog/img/imeasure.jpg
+image:  /brblog/img/imeasure.png
 categories:
 ---
 If you do mulching, fertilization, aeration and many other landscaping jobs, or if your small business do driveway sealing, roofing, or christmas decoration, often times you need to measure the size of the lawn, the area of the driveway, length of the house, area of the roof, etc.
