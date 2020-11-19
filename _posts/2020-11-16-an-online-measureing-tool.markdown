@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "On free online measureing tool for outdoor areas"
+title:  "A free online measuring tool for outdoor areas"
 date:   2020-11-16 11:50:21 -0400
 image:  /brblog/img/imeasure.png
 categories:
@@ -11,7 +11,7 @@ You can go the site to do measuring physically but hey, we are no longer in the 
 
 There are many online measuring sites which you need to pay monthly fee to use, but you are a small business, you need to take care too many payments, not another one. You want to use a free service and mostly it is enough for your needs.
 
-We have created the free online measuring tool - `iMeasure`, to help you do online measurement, mostly you will not need to pay for using `iMeasure`, since our free tier of service is very generous to allow you using it without cost - up to 200 measurementlines will be offered to you for free. So rest assured this is a service you could use for the long run.
+We have created the free online measuring tool - [`iMeasure`](http://bostonrouting.com/imeasure), to help you do online measurement, mostly you will not need to pay for using `iMeasure`, since our free tier of service is very generous to allow you using it without cost - up to 200 measurementlines will be offered to you for free. So rest assured this is a service you could use for the long run.
 
 With `iMeasure`, you can:
 
