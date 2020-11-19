@@ -25,6 +25,6 @@ With `iMeasure`, you can:
 
 Many landscapers like Dave's Landscape out of Hudson Ma already use this tool daily to measure their job size and quote their customers.
 
-Try out the [bostonrouting-home][bostonrouting-imeasure] to use the free online measureing tool `iMeasure` from BostonRouting.
-[bostonrouting-home]: http://bostonrouting.com
-[bostonrouting-imeasure]:   http://bostonrouting.com/imeasure
+Try out the [bostonrouting-home][bostonrouting-imeasure] to use the free online measuring tool `iMeasure` from BostonRouting.
+[bostonrouting-home](http://bostonrouting.com)
+[bostonrouting-imeasure](http://bostonrouting.com/imeasure)
