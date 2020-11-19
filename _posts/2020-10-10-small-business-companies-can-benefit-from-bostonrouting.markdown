@@ -7,7 +7,7 @@ categories:
 ---
 Small business owners usually does not have the need nor budget to subscribe to a routing service from a dedicated `routing software`. Instead, their routing needs are more sporadic and sometimes daily, yet they need many rounds of trial to finally settle on a route they like. `bostonrouting.com` offers such service to the small business owners, they do not need to worry about budgets and monthly subscription, they can just use `bostonrouting.com` whenever they need to, like one of our landscaping client says, "we use `bostongrouting.com` to optimize our mowing routes about once every few days, when we have new customers or when we have missed mowing schedule due to holiday or bad weather".
 
-`bostonrouting.com` helps following small business to optimize their routes:
+[`bostonrouting.com`](http://bostonrouting.com) helps following small business to optimize their routes:
 
 * Landscaping companies
 * Snow removal companies
@@ -32,6 +32,6 @@ print(optimalRouteFor('Jack's Pole'))
 
 Check out the [BostonRouting docs][bostonrouting-docs] for more info on how to get the most out of BostonRouting. File all bugs/feature requests at [BostonRouting’s GitHub repo][bostonrouting-gh]. If you have questions, you can ask them on [BostonRouting Talk][bostonrouting-talk].
 
-[bostonrouting-docs]: https://bostonrouting.com/docs/home
-[bostonrouting-gh]:   https://github.com/spearsear/bostonrouting
-[bostonrouting-talk]: https://talk.bostonrouting.com/
+[bostonrouting-docs](https://bostonrouting.com/docs/home)
+[bostonrouting-gh](https://github.com/spearsear/bostonrouting)
+[bostonrouting-talk](https://talk.bostonrouting.com/)
